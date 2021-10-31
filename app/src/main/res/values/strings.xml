@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timepicker</string>
+    <string name="app_clock">Time not selected yet .</string>
+    <string name="app_click">Show Time</string>
+</resources>
